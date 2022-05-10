@@ -25,3 +25,7 @@ Follow Me On
 - Youtube     : 🔗https://www.youtube.com/channel/UCGZd1qWTuTVK_TRGuaUyWkw
 - Github      : 🔗https://github.com/ridwanlawson/
 - Email       : ridwanlawsons@gmail.com
+
+
+Template Web        : 🔗https://w3layouts.com/
+Template Admin Web  : 🔗https://getstisla.com/
