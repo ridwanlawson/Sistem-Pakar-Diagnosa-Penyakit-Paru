@@ -17,6 +17,8 @@ If You Use WAMPP
 2. The Different is only at the name folder
 3. WAMPP use www to place the file script while XAMPP use htdocs
 
+After imported database and place the script inside the host folder such as htdocs or www and manymore you can just access the web directly from localhost and if you wan login as admin just access file login.php for example localhost/app/login.php and hash that i used on database only MD5.  
+
 Love To Share And Help 
 
 Follow Me On 
