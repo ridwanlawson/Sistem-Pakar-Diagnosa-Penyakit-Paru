@@ -20,8 +20,8 @@ If You Use WAMPP
 Love To Share And Help 
 
 Follow Me On 
-Instagram   : ridwanlawson
-LinkedIn    : ridwanlawson
-Youtube     : ridwanlawson
-Github      : ridwanlawson
-Email       : ridwanlawsons@gmail.com
+- Instagram   : ridwanlawson
+- LinkedIn    : ridwanlawson
+- Youtube     : ridwanlawson
+- Github      : ridwanlawson
+- Email       : ridwanlawsons@gmail.com
