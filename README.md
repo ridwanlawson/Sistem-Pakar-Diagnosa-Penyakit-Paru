@@ -15,7 +15,7 @@ If You Use XAMPP
 If You Use WAMPP
 1. The Step is not too far with the XAMPP user 
 2. The Different is only at the name folder
-3. WAMPP use www to place the file script instead XAMPP use htdocs
+3. WAMPP use www to place the file script while XAMPP use htdocs
 
 Love To Share And Help 
 
