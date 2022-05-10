@@ -28,6 +28,7 @@ Follow Me On
 - Github      : 🔗https://github.com/ridwanlawson/
 - Email       : ridwanlawsons@gmail.com
 
+Big Thanks 
 - Template Web        : 🔗https://w3layouts.com/
 - Template Admin Web  : 🔗https://getstisla.com/
 
