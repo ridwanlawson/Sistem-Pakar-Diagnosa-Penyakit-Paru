@@ -30,4 +30,4 @@ Follow Me On
 - Template Admin Web  : 🔗https://getstisla.com/
 
 <h1>Preview</h1>
-![alt text](https://user-images.githubusercontent.com/38885282/167692539-6e4dd919-3bb3-4350-a42d-15fc4e32aabf.png)
+<img src="https://user-images.githubusercontent.com/38885282/167692539-6e4dd919-3bb3-4350-a42d-15fc4e32aabf.png"></img>
