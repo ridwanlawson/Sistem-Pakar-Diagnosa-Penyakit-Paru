@@ -27,5 +27,5 @@ Follow Me On
 - Email       : ridwanlawsons@gmail.com
 
 
-Template Web        : 🔗https://w3layouts.com/
-Template Admin Web  : 🔗https://getstisla.com/
+- Template Web        : 🔗https://w3layouts.com/
+- Template Admin Web  : 🔗https://getstisla.com/
