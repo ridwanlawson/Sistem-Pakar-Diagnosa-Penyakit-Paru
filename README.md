@@ -26,6 +26,8 @@ Follow Me On
 - Github      : 🔗https://github.com/ridwanlawson/
 - Email       : ridwanlawsons@gmail.com
 
-
 - Template Web        : 🔗https://w3layouts.com/
 - Template Admin Web  : 🔗https://getstisla.com/
+
+<h1>Preview</h1>
+![screencapture-localhost-Arya-2022-05-11-00_55_22](https://user-images.githubusercontent.com/38885282/167692539-6e4dd919-3bb3-4350-a42d-15fc4e32aabf.png)
